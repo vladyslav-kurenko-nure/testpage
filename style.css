@@ -1,35 +1,6 @@
 h1 {
-  color: green;
-  font-size: 100%;
-  font-family: Arial, Verdana, sans-serif;
-  text-align: center;
-}
-#spech1 {
-  color: blue;
-  font-family: times;
-}
-#spech1:hover {
-  font-family: cursive;
-  border: 1px solid black;
-  border-radius: 25px;
-  padding: 10px;
-}
-.mes1 {
-  font-size: 200%;
-}
-.warn {
-  color: red;
-  margin: 20px;
-}
-code {
-  border: 1px solid black;
   color: gray;
-  font-size: 90%;
-  font-family: Courier, Arial;
-  padding: 3px;
-  margin: 10px;
-  width: 100%
-}
-p::first-letter {
-  font-size: 400%;
+  font-size: 100%;
+  font-family: Arial, Verdana;
+  text-align: center;
 }
